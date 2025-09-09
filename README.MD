@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
+      <img src=".gihub\assets\badge.png" width="200" />
   </a>
 
   <!-- project name -->
@@ -14,15 +14,15 @@
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/Ilair/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/languages/top/Ilair/Batman_Password_Sequencer_with_React_Native?color=6A57D5"
     >
     <img 
       alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/Ilair/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/repo-size/Ilair/Batman_Password_Sequencer_with_React_Native?color=6A57D5"
     >
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/Ilair/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/license/Ilair/Batman_Password_Sequencer_with_React_Native?color=6A57D5"
     >
   </p> 
 
@@ -36,13 +36,9 @@
     </a>
     <br />
     <br />
-    <a 
-      href="https://github.com/Ilair/react-native-bat-pass-generator/issues">
-      Reportar Bug
-    </a>
     ·
     <a 
-      href="https://github.com/Ilair/react-native-bat-pass-generator/issues/new">
+      href="https://github.com/Ilair/Batman_Password_Sequencer_with_React_Native">
       Sugerir Recurso
     </a>
   </p>
@@ -52,7 +48,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
+      <img src=".gihub\assets\preview.png" width="200" alt="preview" />
   </a>
 </div>
 
@@ -73,7 +69,7 @@ Você vai precisar do [Node.js](https://nodejs.org) instalado na sua máquina pa
 
 ```bash
 # Clone o repositório
-git clone https://github.com/Ilair/react-native-bat-pass-generator.git
+git clone https://github.com/Ilair/Batman_Password_Sequencer_with_React_Native.git
 
 # Acesse a pasta do projeto
 cd react-native-bat-pass-generator
